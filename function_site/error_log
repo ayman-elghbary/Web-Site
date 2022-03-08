@@ -1,0 +1,6 @@
+[15-Jan-2022 23:18:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dt2rk2rzb9pp/public_html/admin/function/connect.php on line 7
+[15-Jan-2022 23:18:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dt2rk2rzb9pp/public_html/function_site/doAddMessage.php on line 12
+[15-Jan-2022 23:18:02 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/dt2rk2rzb9pp/public_html/function_site/doAddMessage.php on line 14
+[16-Jan-2022 01:14:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dt2rk2rzb9pp/public_html/admin/function/connect.php on line 7
+[16-Jan-2022 01:14:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dt2rk2rzb9pp/public_html/function_site/doAddMessage.php on line 12
+[16-Jan-2022 01:14:58 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/dt2rk2rzb9pp/public_html/function_site/doAddMessage.php on line 14
